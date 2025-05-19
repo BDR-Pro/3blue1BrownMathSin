@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/Documents/python/media/videos/plot_sin/480p15/partial_movie_files/PlotSin/1185818338_2770381622_223132457.mp4'
+file 'file:C:/Users/User/Documents/python/media/videos/plot_sin/480p15/partial_movie_files/PlotSin/624642324_482268380_1358474465.mp4'
+file 'file:C:/Users/User/Documents/python/media/videos/plot_sin/480p15/partial_movie_files/PlotSin/624642324_1754310298_1732107227.mp4'
