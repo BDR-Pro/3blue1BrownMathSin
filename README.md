@@ -10,7 +10,7 @@ This project demonstrates how to animate the mathematical function `f(x) = sin(x
 
 ## 🧪 What You’ll See
 
-<video src="media/videos/plot_sin/480p15/PlotSin.mp4" controls width="500"></video>
+[Watch Here](https://github.com/BDR-Pro/3blue1BrownMathSin/blob/main/media/videos/plot_sin/480p15/PlotSin.mp4)
 
 The animation smoothly draws the sine function on a graph using Manim's `Axes` and `plot()` methods.
 
